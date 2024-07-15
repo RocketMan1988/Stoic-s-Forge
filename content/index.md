@@ -1,6 +1,3 @@
----
-title: Welcome to Quartz
----
+Welcome to my homepage
 
-This is a blank Quartz installation. Testing
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Biblical Topics and Questions]]
